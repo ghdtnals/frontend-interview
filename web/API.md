@@ -12,7 +12,7 @@
 웹 통신을 위한 프로토콜입니다.
 
 ### 2. REST API란?
-web API의 한 형태로 중 웹 자원을 URI로 식별하고, 해당 자원의 상태를 HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 주고 받는 API 설계 방식입니다.
+REST 아키텍쳐를 기반으로 설계한 web API로, 웹 자원을 URI로 식별하고 해당 자원의 상태를 HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 주고 받는 API 설계 방식입니다.
 
 #### 2-1. RESTful API란?
 REST 아키텍쳐의 원칙을 엄격하게 지켜 구현한 웹 API를 의미합니다.
